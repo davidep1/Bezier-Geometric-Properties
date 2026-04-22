@@ -20,7 +20,7 @@ If you use this code in your research, please consider citing our paper. The cit
 ```bibtex
 @article{Pellecchia:2026,
   title={Evaluation of high-order moments for plane and solid closed domains bounded by arbitrary-degree Bézier curves and surfaces},
-  author={Pellecchia, Davide and Giambattista, Romano and Marmo, Francesco},
+  author={Pellecchia, Davide and Rosati, Luciano and Marmo, Francesco},
   journal={Submitted to [xxxx]},
   year={2026}
 }
