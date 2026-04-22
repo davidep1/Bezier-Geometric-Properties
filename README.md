@@ -1,6 +1,6 @@
 # Bezier-Geometric-Properties
 
-**Bezier-Geometric-Properties** is an open-source MATLAB toolkit designed for the exact evaluation of geometric properties and arbitrary-order moments (area, volume, static moments, inertia tensors, and $k$-th order tensors for **any** arbitrary integer $k$) for closed 2D and 3D domains.
+This repo contains an open-source MATLAB toolkit designed for the exact evaluation of geometric properties and arbitrary-order moments (area, volume, static moments, inertia tensors and $k$-th order tensors for **any** arbitrary integer $k$) for closed 2D and 3D domains.
 
 Unlike standard numerical integration methods that rely on boundary triangulation, polygonal approximations, or internal meshing (e.g., FEM), this code operates directly on the exact parametric boundary representation. By exploiting the Gauss-Green and Divergence theorems, domain integrals are analytically converted into boundary integrals and solved in closed-form.
 
