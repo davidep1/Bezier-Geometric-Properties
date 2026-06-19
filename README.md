@@ -1,7 +1,7 @@
 # Bezier-Geometric-Properties
 
 *This repository contains the official open-source MATLAB implementation accompanying the research paper:*
-> **Davide Pellecchia, Luciano Rosati, Francesco Marmo (2026). "Evaluation of high-order moments for plane and solid closed domains bounded by arbitrary-degree Bézier curves and surfaces".** *(Currently under review)*
+> **Davide Pellecchia, Francesco Marmo, Luciano Rosati (2026). "Evaluation of high-order moments for plane and solid closed domains bounded by arbitrary-degree Bézier curves and surfaces".** *(Currently under review)*
 
 ---
 
@@ -21,7 +21,7 @@ If you use this code in your research, please consider citing our paper. The cit
 ```bibtex
 @article{Pellecchia:2026,
   title={Evaluation of high-order moments for plane and solid closed domains bounded by arbitrary-degree B{\'e}zier curves and surfaces},
-  author={Pellecchia, Davide and Rosati, Luciano and Marmo, Francesco},
+  author={Pellecchia, Davide and Marmo, Francesco and Rosati, Luciano},
   journal={Submitted for publication},
   year={2026}
 }
