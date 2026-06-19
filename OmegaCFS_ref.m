@@ -4,8 +4,8 @@
 %
 % Developed by:
 %   Davide Pellecchia   (davide.pellecchia@unina.it);
-%   Luciano Rosati      (rosati@unina.it);
 %   Francesco Marmo     (f.marmo@unina.it);
+%   Luciano Rosati      (rosati@unina.it);
 %
 % REFERENCE:
 % D. Pellecchia, L. Rosati, F. Marmo. "Evaluation of high-order moments
