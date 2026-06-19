@@ -6,11 +6,12 @@
 %
 % Developed by:
 %   Davide Pellecchia   (davide.pellecchia@unina.it);
-%   Luciano Rosati      (rosati@unina.it);
 %   Francesco Marmo     (f.marmo@unina.it);
+%   Luciano Rosati      (rosati@unina.it);
+
 %
 % REFERENCE:
-% D. Pellecchia, L. Rosati, F. Marmo. "Evaluation of high-order moments
+% D. Pellecchia, F. Marmo, L. Rosati. "Evaluation of high-order moments
 % for plane and solid closed domains bounded by arbitrary-degree Bézier
 % curves and surfaces". Submitted for publication, 2026.
 
